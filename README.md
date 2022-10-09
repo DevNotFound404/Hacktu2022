@@ -1,4 +1,4 @@
-# This is A AGE PREDICTOR creates by me using C programming Language 
+# This is A AGE PREDICTOR created by me using C programming Language 
 
 Take age or year or birth as an input from the user and tell them when they turn 100 years old.
 Don't use any type of module.
