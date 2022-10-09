@@ -36,3 +36,4 @@ age = int(input("Enter your AGE:\n"))
 
 # nice ending
                                            print("Thank You For Trying Our Program\nHave A Good Day\n:)\nRegards DEV😊")
+# This code is very amazing ...
